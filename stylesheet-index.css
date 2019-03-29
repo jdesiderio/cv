@@ -1,0 +1,77 @@
+/* color hex seventies-yellow :
+1 titre #c34500
+2 lien lu #a9d44a
+4 texte #001e24
+5 lien non lu #db7b03 */
+
+html {
+	height:100%;
+}
+
+body {
+	height:100%;
+	width:100%;
+	align-content: center;
+}
+
+
+table {
+
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    border-collapse: collapse;
+    border: none;
+  }
+
+td {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+tr {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+a:link {
+	font-family: Futura, 'Helvetica Neue', Helvetica, sans-serif;
+	color: #db7b03;
+	text-decoration: none;
+}
+
+a:visited {
+	font-family: Futura, 'Helvetica Neue', Helvetica, sans-serif;
+	color: #a9d44a;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: Futura, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #db7b03;
+	text-decoration: underline;
+}
+
+a.table
+{
+	line-height: 0;
+	display: table-cell;
+}
+
+p {
+	color: #001e24;
+	font-family: Silom, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+
+
+

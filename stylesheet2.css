@@ -1,9 +1,8 @@
-/* color hex jd3 :
-1 titre #007485
-2 boutons et lien lu #95d7e1
-3 fond et lettrage boutons #fff
-4 texte #2b1201
-5 lien non lu #d05908 */
+/* color hex seventies-blue :
+1 titre #1F4866
+2 lien lu #3392cc
+4 texte #001e24
+5 lien non lu #E565AC */
 
 html {
 	height:100%;
@@ -22,34 +21,35 @@ body {
 
 
 h1 {
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: Silom, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: lighter;
+	font-style: italic;
 	font-size: 60px;
 	text-align: center;
 	padding-top: 10px;
-	color: #007485;
+	color: #1F4866;
 }
 
 h2 {
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: Abadi, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: lighter;
 	font-size: 40px;
 	text-align: center;
 	padding-bottom: 10px;
-	color: #007485;
+	color: #1F4866;
 	margin-top: 0px; 
     margin-bottom: 0px; 
     line-height: 0px;
 }
 
 h3 {
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: Abadi, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 25px;
 	text-align: left;
 	padding-bottom: 10px;
 	padding-top: 10px;
 	padding-left: 100px;
-	color: #d05908;
+	color: #E565AC;
 }
 
 
@@ -69,7 +69,7 @@ th {
 	text-align: left;
 	padding-left: 15 px;
 	padding-right: 10px;
-	color: #d05908;
+	color: #1F4866;
 	font-size: 19px;
 }
 
@@ -91,19 +91,19 @@ tr {
 
 a:link {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #d05908;
+	color: #3392cc;
 	text-decoration: none;
 }
 
 a:visited {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #95d7e1;
+	color: #E565AC;
 	text-decoration: none;
 }
 
 a:hover {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #95d7e1;
+	color: #E565AC;
     text-decoration: underline;
 }
 
