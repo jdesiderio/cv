@@ -1,8 +1,4 @@
-/* color hex seventies-yellow :
-1 titre #c34500
-2 lien lu #a9d44a
-4 texte #001e24
-5 lien non lu #db7b03 */
+/* color hex vintage cv */
 
 html {
 	height:100%;
@@ -10,56 +6,52 @@ html {
 
 body {
 	background-color: #fff
-	text-align: center;
 	height:100%;
 	width:90%;
 	margin-top: 10px;
 	margin-bottom: 50px;
-	padding-left: 20px;
+	padding-left: 70px;
 	padding-right: 30px;
 }
 
 
 h1 {
-	font-family: Silom, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-weight: bold;
-	font-style: italic;
+	font-family: 'Helvetica Neue thin', Helvetica, Arial, sans-serif;
 	font-size: 50px;
-	text-align: center;
+	text-align: left;
 	padding-top: 10px;
-	color: #c34500;
+	color: #f689aa;
 }
 
 h2 {
-	font-family: Abadi, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica Neue thin', Helvetica, Arial, sans-serif;
 	font-weight: lighter;
-	font-size: 40px;
-	text-align: center;
+	font-size: 30px;
+	text-align: left;
+	color: #d84f79;
 	padding-bottom: 10px;
-	color: #c34500;
-	margin-top: 0px; 
-    margin-bottom: 0px; 
+	padding-top: 20px;
+	margin-top: 20px; 
     line-height: 0px;
 }
 
 h3 {
-	font-family: Abadi, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica Neue thin', Helvetica, Arial, sans-serif;
+	font-weight: lighter;
 	font-size: 25px;
 	text-align: left;
-	padding-bottom: 10px;
-	padding-top: 10px;
+	padding-bottom: 0px;
 	padding-left: 100px;
-	color: #a9d44a;
+	color: #02092b;
 }
 
 
 
 table {
 	background-color: #fff;
- 	margin-left:auto; 
-    margin-right:auto;
-    margin-top:auto;
-    margin-bottom:auto;
+	align-self: left;
+	align-content: left;
+	width: 85%;
 }
 
 
@@ -91,24 +83,24 @@ tr {
 
 a:link {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #db7b03;
-	text-decoration: none;
+	color: #f689aa;
+	text-decoration: underline;
 }
 
 a:visited {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #a9d44a;
+	color: #993856;
 	text-decoration: none;
 }
 
 a:hover {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #a9d44a;
+	color: #f689aa;
     text-decoration: underline;
 }
 
 p {
-	color: #001e24;
+	color: #02092b;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	text-align: justify;
@@ -117,10 +109,10 @@ p {
 }
 
 .back {
-	color: #00829c;
-	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #f689aa;
+	font-family: 'Helvetica Neue thin', Helvetica, Arial, sans-serif;
 	font-weight: lighter;
-	font-size: 18px;
+	font-size: 28px;
 	text-align: right;
 	padding-right: 70px;
 	padding-bottom: 40px;
@@ -128,7 +120,7 @@ p {
 }
 
 .language {
-	color: #00829c;
+	color: #02092b;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: lighter;
 	font-size: 18px;
@@ -136,7 +128,7 @@ p {
 }
 
 .mail {
-	color: #001e24;
+	color: #02092b;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	text-align: center;
@@ -150,8 +142,7 @@ ul{
 
 li {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-weight: stronger;
-	color: #001e24;
+	color: #02092b;
 	padding: 5px;
 	font-size: 18px;
 }

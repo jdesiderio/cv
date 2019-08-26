@@ -1,14 +1,11 @@
-/* color hex seventies-yellow :
-1 titre #c34500
-2 lien lu #a9d44a
-4 texte #001e24
-5 lien non lu #db7b03 */
+/* color hex vintage cv */
 
 html {
 	height:100%;
 }
 
 body {
+	background-color: #cae1de;
 	height:100%;
 	width:100%;
 	align-content: center;
@@ -40,20 +37,20 @@ tr {
 
 
 a:link {
-	font-family: Futura, 'Helvetica Neue', Helvetica, sans-serif;
-	color: #db7b03;
+	font-family: Helvetica Neue thin, Helvetica Neue, sans-serif;
+	color: #ffffff;
 	text-decoration: none;
 }
 
 a:visited {
-	font-family: Futura, 'Helvetica Neue', Helvetica, sans-serif;
-	color: #a9d44a;
+	font-family: Helvetica Neue thin, Helvetica Neue, sans-serif;
+	color: #a7d8d1;
 	text-decoration: none;
 }
 
 a:hover {
-	font-family: Futura, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	color: #db7b03;
+	font-family: Helvetica Neue thin, Helvetica Neue, sans-serif;
+	color: #ffffff;
 	text-decoration: underline;
 }
 
@@ -64,9 +61,9 @@ a.table
 }
 
 p {
-	color: #001e24;
-	font-family: Silom, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size: 18px;
+	color: #ffffff;
+	font-family: Helvetica Neue thin, Helvetica, Arial, sans-serif;
+	font-size: 25px;
 	text-align: center;
 	padding-top: 0;
 	padding-bottom: 0;
